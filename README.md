@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Fine-tuning Large Language Models (LLMs), building QLoRA-based training pipelines, and improving instruction-following performance in transformer models.<br><br>👯 I’m looking to collaborate on<br>Open-source AI/ML projects, GenAI applications, LLM fine-tuning, RAG systems, and real-world NLP solutions.<br><br>🤝 I’m looking for help with<br>Scaling LLM training efficiently, advanced CUDA optimization, and deploying production-grade AI inference systems.<br><br>🌱 I’m currently learning<br>Advanced Transformer architectures, Model Optimization techniques, RAG pipelines, and scalable ML system design.<br><br>💬 Ask me about<br>LLMs, QLoRA, LoRA, Hugging Face, NLP, Deep Learning, Machine Learning, PyTorch, Model Evaluation,Data Preprcessing and Android development.<br><br>⚡ Fun fact<br>I enjoy optimizing models more than tuning hyperparameters — and I’ve fine-tuned 7B models on limited GPU memory 😄.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrityunjay-kr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23416297/mrityunjay-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrityunjaykumar835@gmail.com) 
 
