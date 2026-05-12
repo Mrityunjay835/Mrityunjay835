@@ -152,6 +152,7 @@ Raw CSVs → ETL → Feature Store → GBT Model → Streaming Predictions → D
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Mrityunjay835&icon=4&color=9)](https://visitcount.itsvg.in)
 
-*Open to opportunities in AI/ML Engineering and Data Engineering*
+*Open to opportunities in AI/ML Engineering and Data Engineering *
+Thank You
 
 </div>
